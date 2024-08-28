@@ -2,6 +2,10 @@ How to take a fingerprint image from the fingerprint sensor and send it to the s
 
 Using a WROOM 32 esp32 board with a ZA650_M5 fingerprint sensor, connection to the server using a WIFI network.
 
+esp32_image_pc_finger folder uses FPM v0.0
+
+esp32_image_pc_finger_new folder uses FPM v1.0
+
 Devices
 
 ![za620_m5](https://github.com/user-attachments/assets/14af3a2d-02ca-4fc3-a8ae-5622e91fd774)
